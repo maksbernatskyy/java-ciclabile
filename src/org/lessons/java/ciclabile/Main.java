@@ -9,5 +9,7 @@ public class Main {
         System.out.println(array.getElementoSuccessivo());
         System.out.println(array.getElementoSuccessivo());
         System.out.println(array.getElementoSuccessivo());
+
+        System.out.println(array.hasAncoraElementi());
     }
 }
